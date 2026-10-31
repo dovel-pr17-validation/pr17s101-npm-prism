@@ -20,7 +20,7 @@
     "@scarf/scarf": "^1.4.0",
     "@stoplight/http-spec": "^7.1.0",
     "@stoplight/json": "3.21.7",
-    "@stoplight/json-schema-merge-allof": "0.7.8",
+    "@stoplight/json-schema-merge-allof": "0.8.0",
     "@stoplight/json-schema-ref-parser": "10.0.0",
     "@stoplight/json-schema-sampler": "0.3.0",
     "@stoplight/prism-core": "^5.16.0",
