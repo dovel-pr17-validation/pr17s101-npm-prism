@@ -25,7 +25,7 @@
   "devDependencies": {
     "@stoplight/types": "^14.1.1",
     "@types/caseless": "^0.12.2",
-    "@types/content-type": "^1.1.5",
+    "@types/content-type": "^1.1.9",
     "@types/jest": "^30.0.0",
     "@types/json-schema": "^7.0.15",
     "@types/lodash": "^4.17.24",
